@@ -1,16 +1,6 @@
-# GitHub-Resume-Template
+## Eric Tam
 
-Fork and star ⭐️ this template to create your own Markdown resume for your GitHub bio 🔥
-
-1. Fork the repo.
-2. Edit the markdown file and fill in your own information.
-3. Update to your GitHub's Readme.md page.
-
-___
-
-## James McArthur
-
-Auckland, New Zealand · [Smoljames.com](https://www.smoljames.com) · [in/jamezmcarthur](https://www.linkedin.com/in/jamezmcarthur/)
+Hong Kong, China · [Smoljames.com](https://www.smoljames.com) · [in/jamezmcarthur](https://www.linkedin.com/in/jamezmcarthur/)
 
 Innovative self-taught software developer with a passion for problem solving and design. Specializes in full-stack development, solutionarchitecture, project vision, JavaScript, Python, and other web technologies. I help people learn to code [here](https://www.youtube.com/smoljames).
 
